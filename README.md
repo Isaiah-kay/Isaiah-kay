@@ -1,7 +1,7 @@
 👋Hi, I’m Isaiah-kay
-I’m interested in tech at large
-I’m currently learning html,css, js and java
-I’m looking to collaborate on beginner projects
+- I’m interested in tech at large
+- I’m currently learning html,css, js and java
+- I’m looking to collaborate on beginner projects
 😄 
 
 <!---
